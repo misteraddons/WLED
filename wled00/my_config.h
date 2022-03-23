@@ -21,4 +21,4 @@
 //#define CLIENT_PASS "Porkchop"
 
 
-#define MAX_LEDS 17       //Maximum total LEDs. More than 1500 might create a low memory situation on ESP8266.
+//#define MAX_LEDS 17       //Maximum total LEDs. More than 1500 might create a low memory situation on ESP8266.
