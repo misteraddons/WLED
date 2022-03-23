@@ -7,7 +7,7 @@
 
 //Defaults
 #define DEFAULT_CLIENT_SSID "Your_Network"
-#define DEFAULT_AP_PASS     "wled1234"
+#define DEFAULT_AP_PASS     "Porkch0p"
 #define DEFAULT_OTA_PASS    "wledota"
 
 //increase if you need more
