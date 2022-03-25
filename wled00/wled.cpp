@@ -600,7 +600,7 @@ void WLED::initConnection()
   DEBUG_PRINTLN("...");
 
   // convert the "serverDescription" into a valid DNS hostname (alphanumeric)
-  char hostname[25] = "wled-";
+  char hostname[25] = "express-";
   prepareHostname(hostname);
 
 #ifdef ESP8266
